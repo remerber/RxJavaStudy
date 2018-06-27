@@ -11,5 +11,15 @@
          android:text="Chapter02"
          android:layout_width="wrap_content"
          android:layout_height="wrap_content" />
+     <Button
+         android:id="@+id/btn03"
+         android:text="Chapter03"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content" />
+     <Button
+         android:id="@+id/btn04"
+         android:text="Chapter04"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content" />
 
 </LinearLayout>
